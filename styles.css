@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    margin-bottom: 0;
+    color: #850E35;
+
+}
+
+h3 {
+    font-family: 'Merriweather', serif;
+    align-items: center;
+    left: 250px;
+    color: #850E35;
+    font-weight: normal;
+}
+
+.top-container {
+    background-color: #FFE6E6;
+    position: relative;
+    padding-top: 863px;
+    margin: 0 0 0 0;
+
+}
+
+.cloud1 {
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+
+.cloud2 {
+    position: absolute;
+    right: 100px;
+    top: 1px;
+}
+
+.mountain {
+    position: absolute;
+    top: 190px;
+    right: 200px;
+}
+
+.text {
+    position: absolute;
+    top: 200px;
+    left: 520px;
+}
